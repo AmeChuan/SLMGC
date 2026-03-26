@@ -1,0 +1,2 @@
+# SLMGC
+code of SLMGC
